@@ -1,8 +1,3 @@
-Absolutely! Here's a clean, professional **README.md** you can use for your **HandSpeak** project.  
-I'll include **installation instructions**, **libraries needed**, **how to run**, and a little **project description** too.
-
----
-
 # HandSpeak ✋🗣️
 
 HandSpeak is a hand gesture recognition system that allows users to form sentences or perform calculations using hand signs.  
