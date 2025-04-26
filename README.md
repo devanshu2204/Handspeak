@@ -1,7 +1,7 @@
 # HandSpeak ✋🗣️
 
 HandSpeak is a hand gesture recognition system that allows users to form sentences or perform calculations using hand signs.  
-It uses **MediaPipe**, **OpenCV**, and a **TensorFlow-trained neural network**, all wrapped in a **Streamlit** web app interface.
+It uses **MediaPipe**, **OpenCV**, and a **TensorFlow-trained neural network**, all wrapped in a **tinkter**  interface.
 
 ## Features
 
@@ -41,12 +41,9 @@ Once everything is installed:
 1. run collect_data.py to collect gestures
 2. run rotate.py to rotate and flip the data
 3. run train.py to create and train cnn model
-4. 
-```bash
-streamlit run app.py
-```
+4. run app.py 
 
-- `app.py` is the main file that launches the Streamlit application.
+- `app.py` is the main file that launches the application.
 - Make sure your **webcam** is connected and accessible!
 - In the app, you can **choose between "Text Mode" and "Calculator Mode"**.
 - Perform gestures in front of the webcam to interact.
